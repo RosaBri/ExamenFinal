@@ -1,9 +1,5 @@
 # ExamenFinal
 Resolución del examen final de Bioinformática G01
-# GBI6_ExamenPython
-# ExamenParcial2
-
-*Desarrollo del examen parcial 2 de bioinformática*
 
 ## Lidia Rosa Briñoles Villalva
 

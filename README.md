@@ -29,12 +29,10 @@ Resolución del examen final de Bioinformática G01
 
 ### Pitón, Anaconda, GitBash
 
-## Versión de Python/Anaconda
+## Versión de Rstudio
 
-### 
+### R.4.1.3
 
-### 
+## Programas usados/Explicacion de los datos utilizados
 
-## Modulos/paquetes y usados/Explicacion de los datos utilizados
-
-### 
+### Rstudio, R, GitBash y GitHub

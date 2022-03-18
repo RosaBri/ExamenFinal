@@ -25,10 +25,6 @@ Resolución del examen final de Bioinformática G01
 
 ### Pantalla: LED 16'' HD.
 
-## Programas utilizados
-
-### Pitón, Anaconda, GitBash
-
 ## Versión de Rstudio
 
 ### R.4.1.3
